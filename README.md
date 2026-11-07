@@ -22,5 +22,9 @@ So, i tried and made a simpler one.
 
 2. Now for the part after the elbow joint-
    Take piece of hollow rod about 5-6cm long and fix it in the end of the elbow joint with help of epoxy putty.
-   
+   then take a piece which fits tightly inside the hollow rod but still slides in it and put it inside of the rod.
+
+3. Then attach a servo motor to move the sliding part.
+
+4. Rest can be easily assembled via the CAD model.
    
